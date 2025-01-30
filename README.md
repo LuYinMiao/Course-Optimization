@@ -1,1 +1,1 @@
-# optimization_course
+# course-optimization
